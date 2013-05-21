@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 手背的油菜地儿!
 tagline: Supporting tagline
 ---
